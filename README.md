@@ -23,7 +23,7 @@ git clone https://github.com/WessamM1/GoogleChromeExtensionProfanityFilter.git
 
 ## 🎥 Demo
 
-![Demo](https://github.com/user-attachments/assets/de6d81bb-81b5-45d4-9bfa-b5ffc6d366e8)
+![Demo Preview](demo.gif)
 
 ## 🧩 Future Work
 
