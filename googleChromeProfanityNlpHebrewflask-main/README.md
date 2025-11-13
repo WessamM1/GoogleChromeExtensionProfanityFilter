@@ -15,18 +15,18 @@ git clone https://github.com/WessamM1/GoogleChromeExtensionProfanityFilter.git
 ```
 2. Open Chrome → Extensions → Enable Developer Mode → Load unpacked → Select the project folder.
 
-🧪 Model Training
+##🧪 Model Training
 
 * Preprocessed Hebrew text dataset with TensorFlow.
 * Tokenization and embedding layer used for real-time classification.
 * Accuracy: 96% on validation set.
 
-🧩 Future Work
+##🧩 Future Work
 
 * Support for other languages.
 * Offline model inference.
 * Browser-level parental control API integration.
 
-📄 License
+##📄 License
 
 MIT License © Wissam Mousa
